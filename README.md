@@ -1,4 +1,4 @@
-# student-support-form
+# Student support form
 Formularz kontaktowy dla studentów Uniwersytetu WSB Merito we Wrocławiu.
 
 🎯 Cel projektu
